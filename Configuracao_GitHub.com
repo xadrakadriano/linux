@@ -22,3 +22,16 @@
    git commit -m "descricao da alteração"
    git push
 
+
+   #Criando novo repositorio
+
+
+   git branch ShellSh
+   git checkout ShellSh
+   git push -u xadrakadriano ShellSh
+
+   # Alternar entre as branch   
+   git checkout master
+   git checkout ShellSh
+
+
