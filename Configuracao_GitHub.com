@@ -10,7 +10,7 @@
    mkdir git-xadrakadriano
    cd git-xadrakadriano/
    git config --global user.name "xadrakadriano"
-   git config --global "adriano.machado.instrutor@gmail.com"
+   git config --global user.email "adriano.machado.instrutor@gmail.com"
    git commit -m "inicializando"
    
    #git clone  https://github.com/xadrakadriano/linux
