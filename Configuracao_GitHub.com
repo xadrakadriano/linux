@@ -11,7 +11,7 @@
    cd git-xadrakadriano/
    # inicializando clone local
    git config --global user.name "xadrakadriano"
-   git config --global "adriano.machado.instrutor@gmail.com"
+   git config --global user.email "adriano.machado.instrutor@gmail.com"
    git clone  https://github.com/xadrakadriano/linux
 
    # baixando atualizações
@@ -20,7 +20,5 @@
    # enviando alterações
    git add -A
    git commit -m "descricao da alteração"
-   git push 
-
-
+   git push
 
